@@ -1,3 +1,7 @@
-## diplomado iOS 2018-2
+## Diplomado iOS 2018-2
 
-Stuff
+Several stuff
+-Concepts
+-Examples
+-Excercises
+-Etc.
